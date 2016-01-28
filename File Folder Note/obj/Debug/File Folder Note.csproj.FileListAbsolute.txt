@@ -1,0 +1,6 @@
+D:\Visual Studio\Projects\File Folder Note\File Folder Note\bin\Debug\File Folder Note.exe.config
+D:\Visual Studio\Projects\File Folder Note\File Folder Note\bin\Debug\File Folder Note.exe
+D:\Visual Studio\Projects\File Folder Note\File Folder Note\bin\Debug\File Folder Note.pdb
+D:\Visual Studio\Projects\File Folder Note\File Folder Note\obj\Debug\File Folder Note.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Projects\File Folder Note\File Folder Note\obj\Debug\File Folder Note.exe
+D:\Visual Studio\Projects\File Folder Note\File Folder Note\obj\Debug\File Folder Note.pdb
